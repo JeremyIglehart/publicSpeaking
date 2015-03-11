@@ -31,7 +31,8 @@
         Support for B:
         
         TRANSITION:
-    C. 
+        
+    C. Book Design and Typography
         Support for C:
         
         TRANSITION:
