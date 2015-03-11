@@ -6,45 +6,45 @@
 
 > #### General Purpose: To inform
 >
-> #### Specific Purpose: To inform my audience about the Golden Ratio, a mathematical connection between science and the arts.
+> #### Specific Purpose: To inform my audience about the Golden Ratio, as a mathematical connection between science and arts.
 
 ## Central Idea Statement: 
 
 ## Organizational Technique: Topical
 
-1. INTRODUCTION 
+1. INTRODUCTION
     
-    Attention Getting Device – 
+    Attention Getting Device –
     
-    Preview/Central Idea Statement/ -- 
+    Preview/Central Idea Statement/ --
     
-    TRANSITION: 
+    TRANSITION:
     
 2. BODY (Main Points)
     
-    A. XXXXXXXX
-        Support for A:  
+    A. Short history of the Golden Ratio
+        Support for A:
         
         TRANSITION:
         
     B. XXXXXXXXXXX
-        Support for B:  
+        Support for B:
         
         TRANSITION:
     C. XXXXXXXXXXX
-        Support for C:  
+        Support for C:
         
         TRANSITION:
         
-3. CONCLUSION 
+3. CONCLUSION
         
-        Summary – 
+        Summary –
         
         Concluding Device --
 
 > ## Works Cited:
 > *Use MLA Bibliographic Format*
-
-Library Sources: 
-
-Internet Sources: 
+>
+> Library Sources:
+>
+> Internet Sources:
