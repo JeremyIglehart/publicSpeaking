@@ -21,6 +21,7 @@
     TRANSITION: 
     
 2. BODY (Main Points)
+    
     A. XXXXXXXX
         Support for A:  
         
