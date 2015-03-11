@@ -1,6 +1,6 @@
 # Informative Speech Outline
 
-*You must turn in this outline and a typed manuscript!
+*You must turn in this outline and a typed manuscript!*
 
 *Time Limit: 5 minutes*
 
