@@ -10,43 +10,40 @@
 
 ## Central Idea Statement: 
 
-## Organizational Technique: 
+## Organizational Technique: Topical
 
-INTRODUCTION 
+1. INTRODUCTION 
+    
+    Attention Getting Device – 
+    
+    Preview/Central Idea Statement/ -- 
+    
+    TRANSITION: 
+    
+2. BODY (Main Points)
+    A. XXXXXXXX
+        Support for A:  
+        
+        TRANSITION:
+        
+    B. XXXXXXXXXXX
+        Support for B:  
+        
+        TRANSITION:
+    C. XXXXXXXXXXX
+        Support for C:  
+        
+        TRANSITION:
+        
+3. CONCLUSION 
+        
+        Summary – 
+        
+        Concluding Device --
 
-Attention Getting Device – 
-
-Preview/Central Idea Statement/ -- 
-
-TRANSITION: 
-
-BODY (Main Points)
-XXXXXXXX
-Support for A:  
-
-TRANSITION:
-
-XXXXXXXXXXX
- Support for B:  
-
-TRANSITION:
-XXXXXXXXXXX
- Support for C:  
-
-TRANSITION:
-
-CONCLUSION 
-
-Summary – 
-
-Concluding Device --
-
-
-
-
-Works Cited: Use MLA Bibliographic Format
+> ## Works Cited:
+> *Use MLA Bibliographic Format*
 
 Library Sources: 
-
 
 Internet Sources: 
