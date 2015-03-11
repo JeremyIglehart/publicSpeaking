@@ -1,17 +1,16 @@
 # Informative Speech Outline
 
-*You must turn in this outline and a typed manuscript!*
+> *You must turn in this outline and a typed manuscript!*
+>
+> *Time Limit: 5 minutes*
 
-*Time Limit: 5 minutes*
+> ## General Purpose: To inform
+>
+> ## Specific Purpose: To inform my audience about the Golden Ratio, a mathematical connection between science and the arts.
 
-## General Purpose:  To inform
+## Central Idea Statement: 
 
-### Specific Purpose: To inform my audience about the Golden Ratio, a mathematical connection between the sciences and the arts.
-
-Central Idea Statement:
-
-
-Organizational Technique: 
+## Organizational Technique: 
 
 INTRODUCTION 
 
@@ -40,7 +39,7 @@ CONCLUSION
 
 Summary – 
 
-Concluding Device -- 
+Concluding Device --
 
 
 
