@@ -6,15 +6,15 @@
 
 > #### General Purpose: To inform
 >
-> #### Specific Purpose: To inform my audience about the Golden Ratio, as a mathematical connection between science and arts.
+> #### Specific Purpose: To inform my audience about the Golden Ratio, a mathematical connection between science, arts and design.
 
-## Central Idea Statement: 
+## Central Idea Statement: the Golden Ratio has been used since as far back as 300bc as a "mathimatical compass" to guide the work and design of mankind from the Parthenon to the discovery of quasicrystals
 
 ## Organizational Technique: Topical
 
 1. INTRODUCTION
     
-    Attention Getting Device –
+    Attention Getting Device – Someone pick a number between 1 and 10 [(1 / [Any Number])+1] Repeating this process The Golden Ratio will emerge at the front end of your calculator.  Continue this process and the number will refine to become more precice - like pi or other 
     
     Preview/Central Idea Statement/ --
     
@@ -22,16 +22,16 @@
     
 2. BODY (Main Points)
     
-    A. Short history of the Golden Ratio
+    A. 
         Support for A:
         
         TRANSITION:
         
-    B. XXXXXXXXXXX
+    B. 
         Support for B:
         
         TRANSITION:
-    C. XXXXXXXXXXX
+    C. 
         Support for C:
         
         TRANSITION:
