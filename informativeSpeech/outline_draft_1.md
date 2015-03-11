@@ -8,7 +8,7 @@
 >
 > #### Specific Purpose: To inform my audience about the Golden Ratio, a mathematical connection between science, arts and design.
 
-## Central Idea Statement: the Golden Ratio has been used since 490bc as a means to guide the work and balance the designs of mankind from the Parthenon to the modern day discovery of quasicrystals.
+## Central Idea Statement: the Golden Ratio has been used since 490bc as a means to guide the work and balance the designs of mankind from ancient architecture, to modern day scientific discoveries, and used in the art typography to calculate the optimal amount of line-spacing for any body of text.
 
 ## Organizational Technique: Topical
 
