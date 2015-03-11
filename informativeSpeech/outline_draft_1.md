@@ -4,9 +4,9 @@
 >
 > *Time Limit: 5 minutes*
 
-> ## General Purpose: To inform
+> #### General Purpose: To inform
 >
-> ## Specific Purpose: To inform my audience about the Golden Ratio, a mathematical connection between science and the arts.
+> #### Specific Purpose: To inform my audience about the Golden Ratio, a mathematical connection between science and the arts.
 
 ## Central Idea Statement: 
 
