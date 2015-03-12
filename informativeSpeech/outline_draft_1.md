@@ -6,35 +6,41 @@
 
 > #### General Purpose: To inform
 >
-> #### Specific Purpose: To inform my audience about the Golden Ratio, a mathematical connection between science, arts and design.
+> #### Specific Purpose: To inform my audience about the Golden Ratio, a mathematical connection between science, art and design.
 
-## Central Idea Statement: the Golden Ratio has been used since 490bc as a means to guide the work and balance the designs of mankind from ancient architecture, to modern day scientific discoveries, and used in the art typography to calculate the optimal amount of line-spacing for any body of text.
+## Central Idea Statement: the Golden Ratio has been used throughout the ages as a mathicmatical axiom of balance and beauity influencing the design of ancient architecture, guiding us to scientific discoveries, and is still used every day in the art of typography.
 
 ## Organizational Technique: Topical
 
 1. INTRODUCTION
     
-    Attention Getting Device - Will someone please pick a number between one and ten? (ask for a member of the audience to participate) Alright, that's a good number.  Lets take the number one, and divide it by your number [audience's number] to get a quotient of... [read quotient from calculator].  Now by adding one to that number we can use it as a *new* dividend in *another repition* of the same math problem.  One divided by [our new number]... add one... repeat...  By repeat this process keeping 1 as our divisor and updating the dividen by adding 1 to the quotient of our previous calculation a mystical number known as the Golden Ratio will begin to emerge on your calulator at the front most part of the number.  The greatest thing about this process is that, it only takes about 8 or 9 repeats of this simple math problem to get an accurate enough version of the Golden Ratio for everyday use.  Continuing this process simply refines our calculation to become more and more precice - just like [pi] or any other irrational number.
+    Attention Getting Device - Give me [a number between one and ten][I1] (wait for audience) Alright, [audiences number] is a good number.  (typing into a calculator) Lets take the number one, and divide it by [audience's number] to get a quotient of [read from calculator] and then add one to that number.  And divide again by taking one divided by our new number to get [read from calculator].  Okay, and then add one, and divide it again by our new number... and alright the good news is we only have to do this about 7 or 8 times to start to see what's happening here.  By repeating this process we will begin to see that the number 1.6 never leaves the front of the calculation, and then 1.61 and 1.618, 1.6180, three, three.  This number is known as the Golden Ratio, and this is a simple way to calculate it.  Or you could just take the square root of 5, add one and divide by two to get 1.618 - if you have a calculator, this is faster.
     
-    Preview/Central Idea Statement/ -- the Golden Ratio, approximately 1.618, has been used since 490bc as a means to guide the work and balance the designs of mankind from ancient architecture, to modern day scientific discoveries, and used in the art typography to calculate the optimal amount of line-spacing for any body of text.
+    Preview/Central Idea Statement/ -- the Golden Ratio, approximately 1.618, has been used throughout the ages as a mathicmatical axiom of balance and beauity influencing the design of ancient architecture, guiding us to scientific discoveries, and is still used every day in the art of typography.
     
-    TRANSITION:
+    TRANSITION: Let's go back and talk about...
     
 2. BODY (Main Points)
     
-    A. Ancient Golden Ratio
+    A. An ancient greek sculptor by the name of Phidias.
         Support for A:
-        Parthenon, MonaLisa, Etc.
+
+        Historians claim that Phidias, was so inspired by the golden ratio and employed it in his works so extensivly that the Greek symbol phi(φ) (named after phidias) eventually became the known as the symbol in mathimatics used to denote the Golden Ratio.  It was Phidias who as an architect designed the [Parthenon][L1] - which is perhaps the most commonly refered to feet of architecture in relation to the Golden Ratio.
         
-        TRANSITION:
+        TRANSITION: For more than 2000 years the Golden Ratio has mesmerized many of the worlds sharpest minds in philosophy, the arts, and the sciences.
         
-    B. Scientific
+    B. From a scientific perspective
         Support for B:
+
+        The golden ratio seems to be more clearly important in it's application in the arts, and to artists.  Because both the way it has been employed and how we are able to detect it after the fact are extremely subtle acts.  In order to make use of the golden ratio, or even sense it's presence in some design properly, one must take [great analytical care][L2].
+
+        From Fibonacci, to [quasicrystals][L3], to sunflowers the Golden Ratio may be found in an extraordinarily vast amount of discaplines.
         
-        TRANSITION:
+        TRANSITION: So, now that you know how simple it is to calculate, and that we've been using it for thousands of years in more than thousands of ways...  How do we use the Golden Ratio today?
         
     C. Book Design and Typography
-        Support for C:
+        
+        typography to calculate the optimal amount of line-spacing to make reading easier.
         
         TRANSITION:
         
@@ -44,14 +50,18 @@
         
         Concluding Device --
 
-> ## Works Cited:
-> *Use MLA Bibliographic Format*
->
-> Library Sources:
-> 
-> - Hemenway, Priya. Divine Proportion: Phi in Art, Nature, and Science. New York: Published by Sterling Pub., 2005. 20-21. Print. (http://www.priyahemenway.com/BookPages/DivineProportion.html)
->
-> Internet Sources:
-> 
-> "Golden Ratio." Golden Ratio. MathsIsFun.com. Web. 11 Mar. 2015. (http://www.mathsisfun.com/numbers/golden-ratio.html)
-> 
+## Works Cited:
+*Use MLA Bibliographic Format*
+
+Library Sources:
+
+[L1]: http://search.ebscohost.com.libdb.dccc.edu/login.aspx?direct=true&db=tfh&AN=12644625&site=eds-live "Hyde, Hartley. 'The Golden Ratio.' Australian Mathematics Teacher 60.1 (2004): 30-31. Professional Development Collection. Web. 11 Mar. 2015."
+
+[L2]: http://search.ebscohost.com.libdb.dccc.edu/login.aspx?direct=true&db=aph&AN=10582618&site=eds-live "Konečni, Vladimir J. 'The Golden Section: Elusive, But Detectable.' Creativity Research Journal 15.2/3 (2003): 267. Academic Search Premier. Web. 12 Mar. 2015."
+
+[L3]: http://libguides.dccc.edu/FindBooksArticlesAndMore "Gardiner, John. 'Fibonacci, Quasicrystals And The Beauty Of Flowers.' Plant Signaling & Behavior 7.12 (2012): 1721-1723. MEDLINE. Web. 12 Mar. 2015."
+
+Internet Sources:
+
+[I1]: http://www.mathsisfun.com/numbers/golden-ratio.html "'Golden Ratio.' Golden Ratio. MathsIsFun.com. Web. 11 Mar. 2015."
+
