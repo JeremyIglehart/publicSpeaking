@@ -68,17 +68,19 @@ Library Sources:
 
 ["Gardiner, John. 'Fibonacci, Quasicrystals And The Beauty Of Flowers.' Plant Signaling & Behavior 7.12 (2012): 1721-1723. MEDLINE. Web. 12 Mar. 2015."][L3]
 
-[L1]: http://search.ebscohost.com.libdb.dccc.edu/login.aspx?direct=true&db=tfh&AN=12644625&site=eds-live "Hyde, Hartley. 'The Golden Ratio.' Australian Mathematics Teacher 60.1 (2004): 30-31. Professional Development Collection. Web. 11 Mar. 2015."
-
-[L2]: http://search.ebscohost.com.libdb.dccc.edu/login.aspx?direct=true&db=aph&AN=10582618&site=eds-live "Konečni, Vladimir J. 'The Golden Section: Elusive, But Detectable.' Creativity Research Journal 15.2/3 (2003): 267. Academic Search Premier. Web. 12 Mar. 2015."
-
-[L3]: http://libguides.dccc.edu/FindBooksArticlesAndMore "Gardiner, John. 'Fibonacci, Quasicrystals And The Beauty Of Flowers.' Plant Signaling & Behavior 7.12 (2012): 1721-1723. MEDLINE. Web. 12 Mar. 2015."
-
 Internet Sources:
 
 ["'Golden Ratio.' Golden Ratio. MathsIsFun.com. Web. 11 Mar. 2015."][I1]
 
 ["'Secret Symphony: The Ultimate Guide to Readable Web Typography.'' Pearsonified.com Web. 11 Mar. 2015."][I2]
+
+Markdown Link References:
+
+[L1]: http://search.ebscohost.com.libdb.dccc.edu/login.aspx?direct=true&db=tfh&AN=12644625&site=eds-live "Hyde, Hartley. 'The Golden Ratio.' Australian Mathematics Teacher 60.1 (2004): 30-31. Professional Development Collection. Web. 11 Mar. 2015."
+
+[L2]: http://search.ebscohost.com.libdb.dccc.edu/login.aspx?direct=true&db=aph&AN=10582618&site=eds-live "Konečni, Vladimir J. 'The Golden Section: Elusive, But Detectable.' Creativity Research Journal 15.2/3 (2003): 267. Academic Search Premier. Web. 12 Mar. 2015."
+
+[L3]: http://libguides.dccc.edu/FindBooksArticlesAndMore "Gardiner, John. 'Fibonacci, Quasicrystals And The Beauty Of Flowers.' Plant Signaling & Behavior 7.12 (2012): 1721-1723. MEDLINE. Web. 12 Mar. 2015."
 
 [I1]: http://www.mathsisfun.com/numbers/golden-ratio.html "'Golden Ratio.' Golden Ratio. MathsIsFun.com. Web. 11 Mar. 2015."
 
