@@ -22,40 +22,40 @@
     
 2. BODY (Main Points)
     
-    A. An ancient greek sculptor by the name of Phidias.
-        Support for A:
+    ### A. An ancient greek sculptor by the name of Phidias.
+    Support for A:
 
-        Historians claim that Phidias, was so inspired by the golden ratio and employed it in his works so extensivly that the Greek symbol phi(φ) (named after phidias) eventually became the known as the symbol in mathimatics used to denote the Golden Ratio.  It was Phidias who was the architect who designed the [Parthenon][L1] - which is perhaps the most commonly refered to feet of architecture in relation to the Golden Ratio.
+    Historians claim that Phidias, was so inspired by the golden ratio and employed it in his works so extensivly that the Greek symbol phi(φ) (named after phidias) eventually became the known as the symbol in mathimatics used to denote the Golden Ratio.  It was Phidias who was the architect who designed the [Parthenon][L1] - which is perhaps the most commonly refered to feet of architecture in relation to the Golden Ratio.
         
-        TRANSITION: For more than 2000 years the Golden Ratio has mesmerized many of the worlds sharpest minds in philosophy, the arts, and the sciences.
+    TRANSITION: For more than 2000 years the Golden Ratio has mesmerized many of the worlds sharpest minds in philosophy, the arts, and the sciences.
         
-    B. From a scientific perspective
-        Support for B:
+    ### B. From a scientific perspective
+    Support for B:
 
-        The golden ratio seems to be more clearly important in it's application in the arts, and to artists.  Because both the way it has been employed and how we are able to detect it after the fact are extremely subtle acts.  In order to make use of the golden ratio, or even sense it's presence in some design properly, one must take [great analytical care][L2].
+    The golden ratio seems to be more clearly important in it's application in the arts, and to artists.  Because both the way it has been employed and how we are able to detect it after the fact are extremely subtle acts.  In order to make use of the golden ratio, or even sense it's presence in some design properly, one must take [great analytical care][L2].
 
-        From Fibonacci, to [quasicrystals][L3], to sunflowers the Golden Ratio may be found in an extraordinarily vast amount of discaplines.
+    From Fibonacci, to [quasicrystals][L3], to sunflowers the Golden Ratio may be found in an extraordinarily vast amount of discaplines.
         
-        TRANSITION: So, now that you know how simple it is to calculate, and that we've been using it for thousands of years in more than thousands of ways...  Let's talk about a few things in your every day life where the Golden Ratio though subtle, has been there this whole time.
+    TRANSITION: So, now that you know how simple it is to calculate, and that we've been using it for thousands of years in more than thousands of ways...  Let's talk about a few things in your every day life where the Golden Ratio though subtle, has been there this whole time.
         
-    C. Typography is the art of orchestrating the symphony of text
-        Support for C:
+    ### C. Typography is the art of orchestrating the symphony of text
+    Support for C:
 
-        There is a symphony happening right in front of your eyes.  You "hear" it every time you see a billboard, read a book, magazine, or blog.
+    There is a symphony happening right in front of your eyes.  You "hear" it every time you see a billboard, read a book, magazine, or blog.
 
-        Typography is the perfect marriage of form and function, and when done right - the words "sing" right off the page effortlessly into your mind through your eyes.
+    Typography is the perfect marriage of form and function, and when done right - the words "sing" right off the page effortlessly into your mind through your eyes.
 
-        A typographer may skillfully use the Golden Ratio to calculate the optimal amount of proportioning from one letter, or word to another in order to tell the eye exactly where to go to find the good stuff.
+    A typographer may skillfully use the Golden Ratio to calculate the optimal amount of proportioning from one letter, or word to another in order to tell the eye exactly where to go to find the good stuff.
         
-        TRANSITION: If you have you ever struggled to find the next line when reading in a book or website, listen up - because this the most interesting part for you.
+    TRANSITION: If you have you ever struggled to find the next line when reading in a book or website, listen up - because this the most interesting part for you.
         
 3. CONCLUSION
         
-        Summary – All you need to do is [remember is three simple things][I2]: font-size, line-height, line-width.
+    Summary – All you need to do is [remember is three simple things][I2]: font-size, line-height, line-width.
 
-        Take the font-size and multiply it by the Golden Ratio, that's how you find the optimal line-height (easy right?) now just square the line-height, and take that as your line-width, and you're good to go.
+    Take the font-size and multiply it by the Golden Ratio, that's how you find the optimal line-height (easy right?) now just square the line-height, and take that as your line-width, and you're good to go.
         
-        Concluding Device -- As it turns out, good design is more often than not like paint by numbers than the art of "reading the tea leaves".  What other goodies does the Golden Ratio have in store for you?  Thank you.
+    Concluding Device -- As it turns out, good design is more often than not like paint by numbers than the art of "reading the tea leaves".  What other goodies does the Golden Ratio have in store for you?  Thank you.
 
 ## Works Cited:
 *Use MLA Bibliographic Format*
