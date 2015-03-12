@@ -74,7 +74,7 @@ Internet Sources:
 
 ["'Secret Symphony: The Ultimate Guide to Readable Web Typography.'' Pearsonified.com Web. 11 Mar. 2015."][I2]
 
-Markdown Link References:
+[Markdown used to Link References:]
 
 [L1]: http://search.ebscohost.com.libdb.dccc.edu/login.aspx?direct=true&db=tfh&AN=12644625&site=eds-live "Hyde, Hartley. 'The Golden Ratio.' Australian Mathematics Teacher 60.1 (2004): 30-31. Professional Development Collection. Web. 11 Mar. 2015."
 
