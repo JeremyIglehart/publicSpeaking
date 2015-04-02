@@ -36,7 +36,7 @@
 
 
 
-4.  Do you consider yourself an artist:
+4.  Do you consider yourself an artist?
 
     [ ] Yes - I am an artist.
     
