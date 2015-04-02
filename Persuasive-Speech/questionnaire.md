@@ -1,4 +1,6 @@
-# Questionnaire
+# Public Speech Questionnaire
+
+## Persuasive Speech Goal: to persuade my audience to appriciate artwork moar.
 
 > A student is giving a persuasive speech on artwork.  He wants to persuade his audience to appreciate artwork more.  To effectively persuade his classmates, he needs to know the following before he can craft his speech:
 
